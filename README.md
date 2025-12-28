@@ -21,6 +21,4 @@
 
 - 📧 Email:[rohit391174@gmail.com](mailto:rohit391174@gmail.com)
 
--   
-
 ⭐ *"Learning every day to become a better full-stack developer."*
