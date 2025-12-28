@@ -13,12 +13,7 @@
 
 --
 
----
 
-## GitHub Stats  
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit391174-bit&show_icons=true&theme=tokyonight)
-
----
 
 ## Connect With Me  
 - 💼 LinkedIn:https://www.linkedin.com/in/rohit-joshi-9927a02a9/
