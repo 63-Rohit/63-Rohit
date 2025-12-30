@@ -41,28 +41,37 @@
 
 ---
 
-## ⚔ Technical Arsenal – The Warzone
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=databricks&logoColor=red" />
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=thealgorithms&logoColor=red" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=codeforces&logoColor=red" />
-</p>
+## ⚔ Technical Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=react&logoColor=red" />
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=red" />
-  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=red" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=red" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=red" />
-</p>
+### 🧠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=red)
 
 ---
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=red)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red)
+
+---
+
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=red)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=red)
+
+---
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red)
+
+---
+
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=red)
 
 ## 🧩 Problem Solving
 - 🧠 Love solving DSA & logical challenges  
