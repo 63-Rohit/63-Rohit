@@ -1,38 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rohit Joshi</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+<h1 align="center"><span style="color:red">Hi 👋, I'm Rohit Joshi</span></h1>
+<h3 align="center"><span style="color:red">A MERN Stack Developer & Problem Solver</span></h3>
 
 <p align="center">
-  <span style="color:#00bfff; font-weight:bold;">Problem Solver</span>
+  <span style="color:red; font-weight:bold;">Turning Ideas into Scalable Web Apps & Solving DSA Challenges</span>
 </p>
-
-<!-- Your Goes Plan image stays here -->
-<div align="center">
-</div>
 
 ---
 
 ## About Me
 
-- 🔭 I'm currently building full‑stack projects using MongoDB, Express, React, and Node.js.  
-- 🌱 I’m improving my skills in REST APIs, authentication, and deployment of MERN apps.  
-- 💡 I enjoy turning ideas into scalable web applications.  
-- ⚡ Fun fact: I love debugging more than writing new code.
+- 🔭 <span style="color:red">I build full‑stack projects using MongoDB, Express, React, and Node.js.</span>  
+- 🌱 <span style="color:red">I’m improving my skills in REST APIs, authentication, and deployment of MERN apps.</span>  
+- 💡 <span style="color:red">I enjoy solving problems, especially Data Structures & Algorithms (DSA).</span>  
+- ⚡ <span style="color:red">Fun fact: I love debugging more than writing new code.</span>  
 
 ---
 
 ## Tech Stack
 
-- 🧩 MongoDB • Express.js • React.js • Node.js  
-- 🛠 JavaScript • TypeScript• Git & GitHub  
-- ☁ Deployment on Vercel / Netlify / Render 
+- 🧩 <span style="color:red">MongoDB • Express.js • React.js • Node.js</span>  
+- 🛠 <span style="color:red">JavaScript • TypeScript • Git & GitHub</span>  
+- 💻 <span style="color:red">DSA: Solving problems in C++ & Python</span>  
+- ☁ <span style="color:red">Deployment on Vercel / Netlify / Render</span>  
 
 ---
 
-
 ## Connect With Me  
-- 💼 LinkedIn:https://www.linkedin.com/in/rohit-joshi-9927a02a9/
 
-
-- 📧 Email:[rohit391174@gmail.com](mailto:rohit391174@gmail.com)
-
-
+- 💼 <span style="color:red">LinkedIn: <a href="https://www.linkedin.com/in/rohit-joshi-9927a02a9/">https://www.linkedin.com/in/rohit-joshi-9927a02a9/</a></span>  
+- 📧 <span style="color:red">Email: <a href="mailto:rohit391174@gmail.com">rohit391174@gmail.com</a></span>  
