@@ -1,99 +1,96 @@
-<!-- ================= RED HACKER HEADING ================= -->
+<!-- ================= RED HACKER INTRO ================= -->
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Kingdom" 
-    alt="Welcome"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I'm+Rohit+Joshi" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rohit+Joshi" 
-    alt="Intro"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer+|+DSA+Problem+Solver" />
 </p>
 
 <p align="center">
-  <b>MERN Stack Developer | Problem Solver | DSA Enthusiast</b>
+  <b>Code • Debug • Solve • Repeat</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🚀 MERN Stack Developer passionate about building modern web applications  
-- 🧠 I enjoy solving challenging problems and improving logical thinking  
-- 💻 Strong interest in backend development and scalable systems  
-- 📚 Continuously learning new technologies and best practices  
-- ⚡ Believe in clean code, consistency, and performance  
+
+- 🚀 MERN Stack Developer building modern & scalable web apps  
+- 🧠 Strong interest in **Data Structures & Algorithms**  
+- 💻 Love solving problems and optimizing solutions  
+- ⚡ Debugging gives me more satisfaction than writing fresh code  
+- 📚 Constantly learning and improving  
 
 ---
 
 ## ⚙ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=red" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=red" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=red" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=red"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=red"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=red"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red"/>
 </p>
 
 ---
 
-## ⚔ Technical Arsenal
+## ⚔️ Technical Arsenal – The Warzone
 
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=thealgorithms&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=codeforces&logoColor=red"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=red"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=red"/>
+</p>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=red)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=red)
-
----
-
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=red)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=red)
-
----
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=red"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=red"/>
+</p>
 
 ---
-
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=red)
 
 ## 🧩 Problem Solving
-- 🧠 Love solving DSA & logical challenges  
+
+- 🧠 Solve DSA problems daily  
 - 📈 Focus on optimized & clean solutions  
-- 🏆 Constant improvement through practice  
+- 🏆 Consistent improvement through practice  
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-joshi-9927a02a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
   </a>
   <a href="mailto:rohit391174@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&center=true&vCenter=true&width=600&lines=Code.+Learn.+Solve.+Repeat." 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&center=true&vCenter=true&width=600&lines=Code.+Learn.+Solve.+Repeat." />
 </p>
