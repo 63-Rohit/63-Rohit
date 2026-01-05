@@ -27,12 +27,12 @@
 
 ### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -42,34 +42,17 @@
 
 ### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## ⚔️ Technical Arsenal – The Warzone
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=thealgorithms&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=codeforces&logoColor=red"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=red"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=red"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
