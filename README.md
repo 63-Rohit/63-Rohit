@@ -19,20 +19,44 @@
 - 🚀 MERN Stack Developer building modern & scalable web apps  
 - 🧠 Strong interest in **Data Structures & Algorithms**  
 - 💻 Love solving problems and optimizing solutions  
-- ⚡ Debugging gives me more satisfaction than writing fresh code  
 - 📚 Constantly learning and improving  
 
 ---
 
-## ⚙️ Tech Stack (Languages • Frameworks • Tools)
+## ⚙️ Tech Stack (Languages & Tools)
 
+### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,tailwind,nextjs,nodejs,express,mongodb,mysql,sqlite,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
 ## ⚔️ Technical Arsenal – The Warzone
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
@@ -63,13 +87,7 @@
 
 ---
 
-## 🧩 Problem Solving
 
-- 🧠 Solve DSA problems daily  
-- 📈 Focus on optimized & clean solutions  
-- 🏆 Consistent improvement through practice  
-
----
 
 ## 🌐 Connect With Me
 
