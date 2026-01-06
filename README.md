@@ -27,7 +27,7 @@
 
 ### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
 
 ### 🎨 Frontend
@@ -57,18 +57,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=63-Rohit&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit063&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=63-Rohit&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit063&theme=dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=63-Rohit&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 
 
